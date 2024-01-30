@@ -28,7 +28,7 @@
 
     python scraper.py
 
-    Note: You can input your own wikipedia page to scrape or press enter to use the default page I provided
+    Note: When you run, you are prompted to input a wikepedia page to "scrape", you can enter your own or press enter to use the default wiki page I provided.
 
 Import requests in scraper.py
 
